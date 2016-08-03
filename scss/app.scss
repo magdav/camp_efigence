@@ -50,10 +50,11 @@
 @include motion-ui-animations;
 
 // moje pliki
-@import 'color';
+
 @import 'mixins';
 @import 'typograf';
 @import 'variables';
+@import 'color';
 
 @import 'components/button';
 @import 'components/footer';
